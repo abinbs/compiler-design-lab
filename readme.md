@@ -13,4 +13,3 @@ Programs:
 9. Check the total number of vowels using LEX
 10. Calculator using YACC
 11. 8085 code generation
-12. abs
