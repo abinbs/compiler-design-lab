@@ -4,7 +4,7 @@ Programs:
 
 1. Lexical analyser implementation :heavy_check_mark:
 2. DFA implementation :heavy_check_mark:
-3. NFA implementaion
+3. NFA implementaion :heavy_check_mark:
 4. NFA to DFA conversion :heavy_check_mark:
 5. Recursive Desent Parser :heavy_check_mark:
 6. Intermediate Code Generation
